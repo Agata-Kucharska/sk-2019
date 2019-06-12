@@ -31,4 +31,4 @@ aby załączyć obrazek
 
 ![alt schemat](images/my-network-schema.png)
 ```
-https://github.com/Agata-Kucharska/sk-2019/blob/master/cwiczenia-1/AKcw1.png
+
