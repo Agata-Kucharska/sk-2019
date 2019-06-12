@@ -24,7 +24,7 @@ Konfiguracja połączenia sieciowego
 Schemat sieci
 -------------
 
-aby załączyć obrazek 
+
 
 
 ![alt schemat](https://github.com/Agata-Kucharska/sk-2019/blob/master/cwiczenia-1/AKcw1.jpeg)
