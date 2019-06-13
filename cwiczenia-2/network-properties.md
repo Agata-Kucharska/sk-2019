@@ -27,7 +27,7 @@ ping 10.0.2.15
 ```
 Efekt
 ```
-![alt schemat](https://github.com/Agata-Kucharska/sk-2019/blob/master/cwiczenia-1/AKcw1.jpeg)
+![alt schemat](https://github.com/Agata-Kucharska/sk-2019/blob/master/cwiczenia-2/PingPC1.PNG)
 ```
 
 Statyczna konfiguracja parametrów połączenia
