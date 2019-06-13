@@ -6,7 +6,7 @@ Charakterystyka systemu operacyjnego
 
 | Charakterystyka | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| nazwa      | linux | debian |
+| PC1     | linux | debian |
 | program (parametry sieci)      | niewiem |  |
 
 
