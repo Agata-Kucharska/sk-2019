@@ -18,7 +18,7 @@ Konfiguracja połączenia sieciowego
 | Adres IP      | 10.0.2.15/24 | przydzielony przez DHCP |
 | Maska podsieci      | 255.255.255.0 | /24 |
 | Brama      | 10.0.2.2 | ip route list |
-| DNS 1      |  |  |
+| DNS 1      | 192.168.1.1 | cat /etc/resolv.conf |
 | DNS 2      |  |  |
 
 Schemat sieci
